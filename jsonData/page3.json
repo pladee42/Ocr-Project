@@ -1,0 +1,159 @@
+{
+    "Success": true,
+    "Data": {
+        "Content": "01.07.2024 23:59:57\n3/ 3\nLP.One Company Ltd.\nPicking List (รวม)\nPicking List No. 2106036229\nRemark : # PO Tiktok_48.67 ส่งสินค้าวันที่ 02.07,2024 เวลา 13:00น.\nAddress : UP E-Commerce (Tiltok) 41/71-73 คลังสินค้า โชติธนวัฒน์ 2 ต.บางโฉลง อ.บางพลี จ.สมุทรปราการ 10540\nลำดับ รหัสสินค้า ชื่อสินค้า\nชิ้น ชิ้น/ทีบ หีบ ชิ้น น้ำหนัก/ทีม น้ำหนักรวม\n39\n1318073903 ไฮยีนปรับเข้มข้น มอร์นิ่งบลูมม่วง1 150\n464\n8\n58\n10.00\n580.00\n40\n1319173901\nไฮยีนปรับเข้มข้น ดิลิเซียสมิ้นท์ 1100\n12\n12\n1\n14.40.\n14.40\n41\n1319174925 ไขยืนปรับเข้มซันดิลิเชียสมิ้นท์ 100แพ็\n12\n12\n1\n14.40\n14.40\n42\n1319183904\nไฮยีนปรับเข้มข้น ดิลิเชียสชมพู 1100\n12\n12\n1\n14.30\n14.30\n43\n1319184928 ไขยืนปรับเข้มซันคิลิเชียสชมพู1100แพ็คค\n456\n12\n38\n14.40\n547.20\n44\n1319233258\nไฮยีนปรับเข้มข้น ฟอร์เอเวอร์ชมพู 1100\n132\n12\n11\n14.40\n158.40\n45\n1330183207\nไฮยีน-ถุงหอม ซันไรส์ ชมพู 8 กรัม\n24\n24\n1\n0.41\n0.41\n46\n1601303028\nไอวี่ นมเปรี้ยวยูเอชทีพลัส ออริจินอล 1\n48\n48\n1\n9.94\n9.94\n47\n1601313158\nไอวี่ นมเปรี้ยวยูเอชทีพลัส ลิ้นจี่ 180\n48\n48\n1\n9.94\n9.94\n48\n1601333127\nไอวี่นมเปรี้ยวยูเอชทีพลัส สตอเบอร์รี่!\n48\n48\n1\n9.94\n9.94\n49\n1601343097 ไอวี่ นมเปรี้ยวยูเอชทีพลัส ส้ม 180\n48\n48\n1\n9.94\n9.94\n50\n1601443493\nไอวี่นมเปรี้ยวยูเอชทีมิกซ์เบอร์รีสแครน!\n48\n48\n1\n8.21\n8.21\n19562\n3147\n0\n34,562.88\n£\nตรวจนับสินค้าถูกต้องแล้ว(Checker)\nตรวจนับสินค้าถูกต้องแล้ว(ขนส่ง)\ndans\nผู้รับสินค้า\nทะเบียนรถ ฯ2 - 6312\nเวลา\nวันที่ 02 /06/69",
+        "DocumentReferenceId": "23ba30fa-44d3-44e0-bf14-3f07db3c35d9",
+        "DocumentStatus": "success",
+        "ResultOcr": [
+            {
+                "PageId": 1,
+                "Status": "Completed",
+                "ErrorDescription": null,
+                "PurchaseOrderNo": null,
+                "InvoiceId": null,
+                "CustomerTaxId": null,
+                "CustomerName": null,
+                "CustomerPhoneNumber": null,
+                "CustomerBranchId": null,
+                "CustomerBranchName": null,
+                "SupplierTaxId": null,
+                "SupplierName": "LP.One Company Ltd.",
+                "SupplierPhoneNumber": null,
+                "SupplierBranchId": null,
+                "SupplierBranchName": null,
+                "Items": [
+                    {
+                        "AmountValue": 580,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไฮยีนปรับเข้มข้น มอร์นิ่งบลูมม่วง1 150",
+                        "Quantity": 58,
+                        "ProductCode": "1318073903",
+                        "Unit": null,
+                        "UnitPrice": 464
+                    },
+                    {
+                        "AmountValue": 14.4,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไฮยีนปรับเข้มข้น ดิลิเซียสมิ้นท์ 1100",
+                        "Quantity": 1,
+                        "ProductCode": "1319173901",
+                        "Unit": null,
+                        "UnitPrice": 12
+                    },
+                    {
+                        "AmountValue": 14.4,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไขยืนปรับเข้มซันดิลิเชียสมิ้นท์ 100แพ็",
+                        "Quantity": 1,
+                        "ProductCode": "1319174925",
+                        "Unit": null,
+                        "UnitPrice": 12
+                    },
+                    {
+                        "AmountValue": 14.3,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไฮยีนปรับเข้มข้น ดิลิเชียสชมพู 1100",
+                        "Quantity": 1,
+                        "ProductCode": "1319183904",
+                        "Unit": null,
+                        "UnitPrice": 12
+                    },
+                    {
+                        "AmountValue": 547.2,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไขยืนปรับเข้มซันคิลิเชียสชมพู1100แพ็คค",
+                        "Quantity": 38,
+                        "ProductCode": "1319184928",
+                        "Unit": null,
+                        "UnitPrice": 456
+                    },
+                    {
+                        "AmountValue": 158.4,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไฮยีนปรับเข้มข้น ฟอร์เอเวอร์ชมพู 1100",
+                        "Quantity": 11,
+                        "ProductCode": "1319233258",
+                        "Unit": null,
+                        "UnitPrice": 132
+                    },
+                    {
+                        "AmountValue": 0.41,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไฮยีน-ถุงหอม ซันไรส์ ชมพู 8 กรัม",
+                        "Quantity": 1,
+                        "ProductCode": "1330183207",
+                        "Unit": null,
+                        "UnitPrice": 24
+                    },
+                    {
+                        "AmountValue": 9.94,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไอวี่ นมเปรี้ยวยูเอชทีพลัส ออริจินอล 1",
+                        "Quantity": 1,
+                        "ProductCode": "1601303028",
+                        "Unit": null,
+                        "UnitPrice": 48
+                    },
+                    {
+                        "AmountValue": 9.94,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไอวี่ นมเปรี้ยวยูเอชทีพลัส ลิ้นจี่ 180",
+                        "Quantity": 1,
+                        "ProductCode": "1601313158",
+                        "Unit": null,
+                        "UnitPrice": 48
+                    },
+                    {
+                        "AmountValue": 9.94,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไอวี่นมเปรี้ยวยูเอชทีพลัส สตอเบอร์รี่!",
+                        "Quantity": 1,
+                        "ProductCode": "1601333127",
+                        "Unit": null,
+                        "UnitPrice": 48
+                    },
+                    {
+                        "AmountValue": 9.94,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไอวี่ นมเปรี้ยวยูเอชทีพลัส ส้ม 180",
+                        "Quantity": 1,
+                        "ProductCode": "1601343097",
+                        "Unit": null,
+                        "UnitPrice": 48
+                    },
+                    {
+                        "AmountValue": null,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไอวี่นม",
+                        "Quantity": null,
+                        "ProductCode": "1601443493",
+                        "Unit": null,
+                        "UnitPrice": null
+                    },
+                    {
+                        "AmountValue": 8.21,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "เปรี้ยวยูเอชทีมิกซ์เบอร์รีสแครน!",
+                        "Quantity": 1,
+                        "ProductCode": null,
+                        "Unit": null,
+                        "UnitPrice": 48
+                    }
+                ]
+            }
+        ]
+    }
+}

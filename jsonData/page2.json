@@ -1,0 +1,239 @@
+{
+    "Success": true,
+    "Data": {
+        "Content": "01.07.2024 23:59:57\n2/ 3\nL.P.One Company Ltd.\nPicking List (รวม)\nPicking List No. 2106036229\nRemark : + PO Tiktok_48.67 ส่งสินค้าวันที่ 02.07,2024 เวลา 13:00น.\nAddress : UP E-Commerce (Tiktok) 41/71-73 คลังสินค้า โชติธนวัฒน์ 2 ต.บางโฉลง อ.บางพลี จ.สมุทรปราการ 10540\nลำดับ รหัสสินค้า ชื่อสินค้า\nชิ้น ชิ้นหีบ ทัพ ชิ้น น้ำหนัก/หีบ น้ำหนักรวม\n20\n1315133723 ไฮยีน-ปรับผ้านุ่ม บานเย็น 2800\n4\n4\n1\n12.20\n12.20\n21\n1316013899\nไฮยีนปรับเข้มข้น มิลค์กี้ขาว1100\n12\n12\n1\n14.40\n14.40\n22\n1316013931\nไฮยีนปรับเข้มข้น มิลค์กี้ขาว 2000\n6,000\n4\n1500\n8.70\n13,050.00\n23\n1316013955\nไฮยีนปรับเข้มข้น มิลค์กี้ขาว3300\n1,480\n4\n370\n14.50\n5,365.00\n24\n1316014924 ไฮยีนปรับเข้มข้น มิลค์กี้ขาว1100 แพ็คค\n864\n12\n72\n14.40\n1,036.80\n25 1316063904 ไฮยีนปรับเข้มข้น แฮปปี้ส้ม1100\n12\n12\n1\n14.40\n14.40\n26\n1316063937\nไฮยีนปรับเข้มข้น แฮปปี้ส้ม 2200\n8\n4\n2\n9.50\n19.00\n27\n1316063950\nไฮยีนปรับเข้มข้น แฮปปี้สลิ่ม3300\n132\n4\n33\n14.50\n478,50\n28\n1316133907 ไฮยีนปรับเข้มข้น บลูมมิ่งชมพู1100\n12\n12\n1\n14.40\n14.40\n29\n1317033902 ไฮยีนปรับเข้มข้นไลฟี่ เลิฟลี่ชมพู1100\n12\n12\n1\n14.40\n14.40\n30\n1317093950\nไฮยีนปรับเข้มข้นไลฟี่ พีโอนีดำ 3300\n132\n4\n33\n14.50\n478.50\n31\n1317094919\nไฮยีนปรับเข้มข้นไลฟี่ พีโอนีดำ1100แพ็คค\n2,400\n12\n200\n14.40\n2,880.00\n32\n1317143952 ไฮยีนปรับเข้มข้นไลฟ์ ซันดิสอควา3300\n76\n4\n19\n14.50\n275.50\n33\n1317163191\nไฮยีนปรับเข้มข้นไลฟ์ มิราเคิลโรสโกล115\n1,480\n8\n185\n10.00\n1,850.00\n34\n1317164206\nไขยืนปรับเข้มข้นไลฟ์ มิราเคิล1100แพ็คค\n132\n12\n11\n14.40\n158.40\n35\n1318013899\nไฮยีนปรับเข้มชั้น สปริงขาว1100\n12\n12\n1\n14.40\n14.40\n36\n1318033905\nไฮยีนปรับเข้มข้น ซันไรส์คิสชมพู1100\n12\n12\n1\n14.40\n14.40\n37\n1318033951\nไฮยีนปรับเข้มข้น ซันไรส์คิสชมพู3300\n96\n4\n24\n14.50\n348.00\n38\n1318034919 ไฮยีนปรับเข้มข้นชันไรสคิสชมพู1100แพ็คค\n2,160\n12\n180\n14.40\n2,592.00\nตรวจนับสินค้าถูกต้องแล้ว(Checker)\nตรวจนับสินค้าถูกต้องแล้ว(ขนส่ง) ศุภกร\nผู้รับสินค้า\nsimñá\n1\nทะเบียนรถ 372 - 6312\nเวลา\nวันที่ 02 /123/67\n2/02/67",
+        "DocumentReferenceId": "adaf5d17-f04b-469f-8a0b-61b601f8e42f",
+        "DocumentStatus": "success",
+        "ResultOcr": [
+            {
+                "PageId": 1,
+                "Status": "Completed",
+                "ErrorDescription": null,
+                "PurchaseOrderNo": null,
+                "InvoiceId": null,
+                "CustomerTaxId": null,
+                "CustomerName": null,
+                "CustomerPhoneNumber": null,
+                "CustomerBranchId": null,
+                "CustomerBranchName": null,
+                "SupplierTaxId": null,
+                "SupplierName": "L.P.One Company Ltd.",
+                "SupplierPhoneNumber": null,
+                "SupplierBranchId": null,
+                "SupplierBranchName": null,
+                "Items": [
+                    {
+                        "AmountValue": 12.2,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไฮยีน-ปรับผ้านุ่ม บานเย็น 2800",
+                        "Quantity": 1,
+                        "ProductCode": "1315133723",
+                        "Unit": null,
+                        "UnitPrice": 4
+                    },
+                    {
+                        "AmountValue": 14.4,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไฮยีนปรับเข้มข้น มิลค์กี้ขาว1100",
+                        "Quantity": 1,
+                        "ProductCode": "1316013899",
+                        "Unit": null,
+                        "UnitPrice": 12
+                    },
+                    {
+                        "AmountValue": 13050,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไฮยีนปรับเข้มข้น มิลค์กี้ขาว 2000",
+                        "Quantity": 1500,
+                        "ProductCode": "1316013931",
+                        "Unit": null,
+                        "UnitPrice": 6000
+                    },
+                    {
+                        "AmountValue": 5365,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไฮยีนปรับเข้มข้น มิลค์กี้ขาว3300",
+                        "Quantity": null,
+                        "ProductCode": "1316013955",
+                        "Unit": null,
+                        "UnitPrice": 1480
+                    },
+                    {
+                        "AmountValue": 1036.8,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไฮยีนปรับเข้มข้น มิลค์กี้ขาว1100 แพ็คค",
+                        "Quantity": 72,
+                        "ProductCode": "1316014924",
+                        "Unit": null,
+                        "UnitPrice": 864
+                    },
+                    {
+                        "AmountValue": 14.4,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไฮยีนปรับเข้มข้น แฮปปี้ส้ม1100",
+                        "Quantity": 1,
+                        "ProductCode": "1316063904",
+                        "Unit": null,
+                        "UnitPrice": 14.4
+                    },
+                    {
+                        "AmountValue": 19,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไฮยีนปรับเข้มข้น แฮปปี้ส้ม 2200",
+                        "Quantity": 2,
+                        "ProductCode": "1316063937",
+                        "Unit": null,
+                        "UnitPrice": 9.5
+                    },
+                    {
+                        "AmountValue": 478.5,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไฮยีนปรับเข้มข้น แฮปปี้สลิ่ม3300",
+                        "Quantity": 33,
+                        "ProductCode": "1316063950",
+                        "Unit": null,
+                        "UnitPrice": 132
+                    },
+                    {
+                        "AmountValue": 14.4,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไฮยีนปรับเข้มข้น บลูมมิ่งชมพู1100",
+                        "Quantity": 1,
+                        "ProductCode": "1316133907",
+                        "Unit": null,
+                        "UnitPrice": 12
+                    },
+                    {
+                        "AmountValue": 14.4,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไฮยีนปรับเข้มข้นไลฟี่ เลิฟลี่ชมพู1100",
+                        "Quantity": null,
+                        "ProductCode": "1317033902",
+                        "Unit": null,
+                        "UnitPrice": 12
+                    },
+                    {
+                        "AmountValue": null,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": null,
+                        "Quantity": 1,
+                        "ProductCode": null,
+                        "Unit": null,
+                        "UnitPrice": null
+                    },
+                    {
+                        "AmountValue": 478.5,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไฮยีนปรับเข้มข้นไลฟี่ พีโอนีดำ 3300",
+                        "Quantity": null,
+                        "ProductCode": "1317093950",
+                        "Unit": null,
+                        "UnitPrice": 132
+                    },
+                    {
+                        "AmountValue": null,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไฮยีนปรับเข้มข้นไล",
+                        "Quantity": null,
+                        "ProductCode": "1317094919",
+                        "Unit": null,
+                        "UnitPrice": null
+                    },
+                    {
+                        "AmountValue": 2880,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ฟี่ พีโอนีดำ1100แพ็คค",
+                        "Quantity": 12,
+                        "ProductCode": null,
+                        "Unit": null,
+                        "UnitPrice": 2400
+                    },
+                    {
+                        "AmountValue": 275.5,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไฮยีนปรับเข้มข้นไลฟ์ ซันดิสอควา3300",
+                        "Quantity": 4,
+                        "ProductCode": "1317143952",
+                        "Unit": null,
+                        "UnitPrice": 76
+                    },
+                    {
+                        "AmountValue": 1850,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไฮยีนปรับเข้มข้นไลฟ์ มิราเคิลโรสโกล115",
+                        "Quantity": 8,
+                        "ProductCode": "1317163191",
+                        "Unit": null,
+                        "UnitPrice": 1480
+                    },
+                    {
+                        "AmountValue": 158.4,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไขยืนปรับเข้มข้นไลฟ์ มิราเคิล1100แพ็คค",
+                        "Quantity": null,
+                        "ProductCode": "1317164206",
+                        "Unit": null,
+                        "UnitPrice": 132
+                    },
+                    {
+                        "AmountValue": 14.4,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไฮยีนปรับเข้มชั้น สปริงขาว1100",
+                        "Quantity": 1,
+                        "ProductCode": "1318013899",
+                        "Unit": null,
+                        "UnitPrice": 12
+                    },
+                    {
+                        "AmountValue": 14.4,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไฮยีนปรับเข้มข้น ซันไรส์คิสชมพู1100",
+                        "Quantity": 1,
+                        "ProductCode": "1318033905",
+                        "Unit": null,
+                        "UnitPrice": 12
+                    },
+                    {
+                        "AmountValue": 348,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไฮยีนปรับเข้มข้น ซันไรส์คิสชมพู3300",
+                        "Quantity": 4,
+                        "ProductCode": "1318033951",
+                        "Unit": null,
+                        "UnitPrice": 96
+                    },
+                    {
+                        "AmountValue": 2592,
+                        "AmountSymbol": null,
+                        "Date": null,
+                        "Description": "ไฮยีนปรับเข้มข้นชันไรสคิสชมพู1100แพ็คค",
+                        "Quantity": 12,
+                        "ProductCode": "1318034919",
+                        "Unit": null,
+                        "UnitPrice": 2160
+                    }
+                ]
+            }
+        ]
+    }
+}
